@@ -9,3 +9,7 @@ Suppose you have two proteins and you know that they are interacting. Also, you 
 > DGRVNSTDLGILKRYILKEIDTLPYKN
 
 You see that in the query sequence **ST-KR** pattern is existed. These pattern corresponds to an active site and If you want to do research on this site in terms binding activity, you need to make mutations. In other words you need to find meaningful mutations based on similar sequences. And that’s where PatFinder comes in.
+
+# Dependencies
+- [Biopython](http://biopython.org/wiki/Download)
+- [Clustal Omega](http://www.clustal.org/omega/)
